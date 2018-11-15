@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CrosshairLabelTemplateForAxisLabels/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CrosshairLabelTemplateForAxisLabels/MainWindow.xaml))
+<!-- default file list end -->
 # How to customize the appearance of crosshair axis labels
 
 
