@@ -5,12 +5,12 @@
         Title="MainWindow" Height="350" Width="525" >
     <Grid>
         <dxc:ChartControl>
-            <!--#region CrosshairOptions-->
+            <!--region #CrosshairOptions-->
             <dxc:ChartControl.CrosshairOptions>
                 <dxc:CrosshairOptions ShowArgumentLabels="True" ShowArgumentLine="True" 
                                       ShowValueLabels="True" ShowValueLine="True" ShowCrosshairLabels="False"/>
             </dxc:ChartControl.CrosshairOptions>
-            <!--#endregion CrosshairOptions-->
+            <!--endregion #CrosshairOptions-->
             <dxc:XYDiagram2D>
                 <dxc:XYDiagram2D.AxisX>
                     <dxc:AxisX2D>
