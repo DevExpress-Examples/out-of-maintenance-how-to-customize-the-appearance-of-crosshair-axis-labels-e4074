@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosshairLabelTemplateForAxisLabels", "CrosshairLabelTemplateForAxisLabels\CrosshairLabelTemplateForAxisLabels.csproj", "{5CA3142B-9707-4BC8-A460-A9AC23331C0B}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosshairLabelTemplateForAxisLabels", "CrosshairLabelTemplateForAxisLabels\CrosshairLabelTemplateForAxisLabels.Net5.csproj", "{5CA3142B-9707-4BC8-A460-A9AC23331C0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
